@@ -1,0 +1,8 @@
+<resources>
+    <drawable name="appcues_notification_small_icon">@mipmap/ic_launcher</drawable>
+    <color name="appcues_notification_color">#FF6200EE</color>
+    <string name="appcues_notification_channel_id">appcues_channel</string>
+    <string name="appcues_notification_channel_name">Appcues Notifications</string>
+    <string name="appcues_notification_channel_description">Appcues-related push notifications</string>
+    <integer name="appcues_notification_channel_importance">4</integer>
+</resources>

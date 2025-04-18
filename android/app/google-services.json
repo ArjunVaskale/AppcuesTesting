@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791395747473",
+    "project_id": "appcuestesting-49968",
+    "storage_bucket": "appcuestesting-49968.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791395747473:android:1eba74db45c35ad710e130",
+        "android_client_info": {
+          "package_name": "com.appcuestesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ41LPi5TVml-Z_glNOFYR6cJjTYj5owI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
